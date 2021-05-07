@@ -7,7 +7,7 @@
 
 # DEMO IMAGE 
 
-<img src="demo.jpg" alt="AVXMTPX">
+<img src="/demo.jpeg" alt="AVXMTPX">
 
 <h2>Overview</h2>
 
