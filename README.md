@@ -7,7 +7,7 @@
 
 # DEMO IMAGE 
 
-<img src="/demo.jpeg" alt="AVXMTPX">
+<img src="https://telegra.ph/file/1f799e0c6a64ba79fab99.jpg" alt="AVXMTP">
 
 <h2>Overview</h2>
 
